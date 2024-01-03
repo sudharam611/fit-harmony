@@ -7,10 +7,10 @@ Fit Harmony is a gym landing page which helps user to view details about the gym
 - Javascript
 - Scroll Reveal (https://scrollrevealjs.org/)
 
-  ## Description
+## Description
   Fit Harmony is a gym landing page which helps user to view details about the gym, its features and pricing plans. It also has a form where user can check their BMI.
 
-  ## Features
+## Features
 
 - Responsive design for mobile and desktop devices
 - User-friendly way to navigate through different sections of the website
